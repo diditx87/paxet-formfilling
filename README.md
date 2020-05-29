@@ -1,5 +1,7 @@
+# Paxet
 paxet merupakan sebuah program sederhana yang digunakan untuk membuat pengiriman jasa barang dengan menggunakan bahasa pemrograman C# dengan aplikasi Microsoft Visual Studio 2019.
 
+# Preview Aplikasi
 Halaman Muka
 
 ![paxet 1](https://user-images.githubusercontent.com/42115824/83278278-8b0e7600-a1fd-11ea-9fe8-2c44675924d8.PNG)
